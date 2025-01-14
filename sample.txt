@@ -1,3 +1,5 @@
 This is the new file inside sampl_gitrepo
 
 change - 1
+
+change - 2
