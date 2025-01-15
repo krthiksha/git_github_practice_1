@@ -3,3 +3,14 @@ This is the new file inside sampl_gitrepo
 change - 1
 
 change - 2
+
+
+Note: Made changes in the current file and updated in git repository 
+local system -> git repository
+git repository -> local system 
+
+commands used :
+git status -> to check the status of the modifications in the current repository
+git add -> to add the modification/creation of file/deletion of file in the "staging area"
+git commit -m <message>   ->   to save the changes with a commit message
+git push origin <branchName>   -> finally pushing all the modification to the repository inside the github using git commands
